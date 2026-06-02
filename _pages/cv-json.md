@@ -7,11 +7,6 @@ redirect_from:
   - /resume-json
 ---
 
-{% include base_path %}
+<iframe src="/files/cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-{% include cv-template.html %}
-
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
-</div>
+Vous pouvez télécharger une copie PDF de mon CV [here](/files/cv.pdf).
