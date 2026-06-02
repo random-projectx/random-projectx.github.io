@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Je m'appelle Oliver et j'étudie la technologie. Durant mes études, j'ai acquis de nombreuses compétences, notamment en programmation, mais aussi en gestion de réseaux, en autonomie, en organisation et en travail collaboratif.
+Je m'appelle Oliver Alberto Fortuno et j'étudie la technologie. Durant mes études, j'ai acquis de nombreuses compétences, notamment en programmation, mais aussi en gestion de réseaux, en autonomie, en organisation et en travail collaboratif.
 
 Avant d'intégrer le BTS, j'ai obtenu mon baccalauréat STI2D. Ce diplôme m'a permis de faire mes premiers pas dans le monde de la technologie et de commencer mon BTS, ainsi que ma carrière professionnelle dans ce domaine.
 
