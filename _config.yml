@@ -26,11 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Oliver Alberto Fortuno"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Je suis étudiant en BTS SIO"
   location         : "Earth"
-  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "oliver.fortuno@proton.me" 
 
   # Academic websites
   academia         : # URL
@@ -220,19 +219,6 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
