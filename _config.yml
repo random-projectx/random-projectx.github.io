@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Oliver Alberto Fortuno"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Oliver Alberto Fortuno"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://random-projectx.github.io  # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -27,7 +27,7 @@ author:
   name             : "Oliver Alberto Fortuno"
   pronouns         : # example: "she/her"  
   bio              : "Je suis étudiant en BTS SIO"
-  location         : "Earth"
+  location         : "Saint-Martin"
   uri              : # URL
   email            : "oliver.fortuno@proton.me" 
 
